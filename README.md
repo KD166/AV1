@@ -8,7 +8,7 @@ Esta atividade consistiu em grupos, onde cada grupo pesquisou sobre diferentes i
 
 Nesta atividade os grupos fizeram seus próprios protótipos de seus aplicativos e fizeram um slide, mostrando cada UC e apresentaram o slide.
 
-[aulaMarkdown](https://github.com/KD166/aulaMarkdown.git)
+[aulaMarkdown](https://github.com/KD166/aulaMarkdown/tree/patch-1)
 
 A atividade individual consiste em uma pesquisa de engenharia de requisitos formatado no Markdown, explicando o conceito geral da engenharia de requisitos, seus tipos, uma tabela comparativa e etc. 
 
